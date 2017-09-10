@@ -71,7 +71,7 @@ public class Translator extends JFrame {
 		contentPane.add(lblEnglish);
 		
 		JLabel lblEuroenglish = new JLabel("EuroEnglish");
-		lblEuroenglish.setForeground(Color.BLACK);
+		lblEuroenglish.setForeground(Color.RED);
 		lblEuroenglish.setFont(new Font("Tahoma", Font.PLAIN, 16));
 		lblEuroenglish.setBounds(682, 19, 89, 23);
 		contentPane.add(lblEuroenglish);
